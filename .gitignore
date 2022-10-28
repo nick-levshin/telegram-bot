@@ -1,0 +1,22 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+tg-react/node_modules
+tg-react/.pnp
+tg-react/.pnp.js
+
+# testing
+tg-react/coverage
+
+# production
+tg-react/build
+
+# misc
+tg-react/.DS_Store
+tg-react/.env.local
+tg-react/.env.development.local
+tg-react/.env.test.local
+tg-react/.env.production.local
+tg-react/npm-debug.log*
+tg-react/yarn-debug.log*
+tg-react/yarn-error.log*
