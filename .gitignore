@@ -5,6 +5,8 @@ tg-react/node_modules
 tg-react/.pnp
 tg-react/.pnp.js
 
+tg-bot/node_modules
+
 # testing
 tg-react/coverage
 
